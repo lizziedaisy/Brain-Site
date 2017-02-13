@@ -253,6 +253,12 @@ background-color: #E9EADC*/
   font-size: 1.5rem;
 }
 
+#photos {
+  text-align: center;
+  background-color: pink;
+  padding: 10px;
+}
+
 .gif {
   min-height: 400px;
 }
